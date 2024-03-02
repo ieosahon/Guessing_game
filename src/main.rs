@@ -1,6 +1,6 @@
 use std::cmp::Ordering;
 use std::io;
-use rand::{random, Rng};
+use rand::{Rng};
 
 fn main() {
     println!("welcome to guess the number game");
